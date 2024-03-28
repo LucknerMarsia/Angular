@@ -21,3 +21,4 @@ describe('ListarPensamentoComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+

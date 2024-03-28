@@ -21,3 +21,4 @@ describe('CriarPensamentoComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+
